@@ -1,0 +1,32 @@
+[
+    { 
+        "name": "Jobs", 
+        "description": "Jobs is for engineers", 
+        "image": "Jobs.png" 
+     },
+     { 
+        "name": "Pixel", 
+        "description": "Pixel is the most feature phone ever", 
+        "image": "pixel.png"
+     }, 
+     { 
+        "name": "Laptop", 
+        "description": "Laptop is most productive development tool", 
+        "image": "laptop.png" 
+     }, 
+     { 
+        "name": "Tablet", 
+        "description": "Tablet is the most useful device ever for meeting", 
+        "image": "tablet.png" 
+     }, 
+     { 
+        "name": "Pendrive", 
+        "description": "Pendrive is useful storage medium", 
+        "image": "pendrive.png" 
+     }, 
+     { 
+        "name": "Floppy Drive", 
+        "description": "Floppy drive is useful rescue storage medium", 
+        "image": "floppy.png" 
+     } 
+  ]
